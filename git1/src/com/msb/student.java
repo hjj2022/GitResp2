@@ -4,5 +4,5 @@ public class student {
     private String name;
     private String height;
     private int number;
-	int age1;
+	private int age222;
 }
